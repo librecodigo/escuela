@@ -1,7 +1,3 @@
-<!-- do not translate this -->
-| []() |
-|-|
-<!-- do not translate this -->
 ## Guia Para Contribuir [Español] (Se Viene Pronto!)
 
 ## Contribution Guidelines [English]
