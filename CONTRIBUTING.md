@@ -1,15 +1,16 @@
 <!-- do not translate this -->
-| [Read these guidelines in other languages](/docs/i18n-languages) |
+| []() |
 |-|
 <!-- do not translate this -->
+## Guia Para Contribuir [Español] (Se Viene Pronto!)
 
-# Contribution Guidelines
+## Contribution Guidelines [English]
 
 Hello. 👋
 
-freeCodeCamp.org is possible, thanks to thousands of kind volunteers like you. We are grateful for your contributions and are excited to welcome you aboard.
+Código is possible thanks to kind volunteers like you. We are grateful for your contributions and are excited to welcome you aboard.
 
-We strictly enforce our ["Code of Conduct"](https://www.freecodecamp.org/code-of-conduct). Please take a moment to read it. It's only 196 words long.
+We strictly enforce our ["Code of Conduct"](coming soon!). Please take a moment to read it.
 
 Happy contributing.
 
@@ -19,23 +20,17 @@ You can contribute to any of these:
 
 1. [Contribute to this open-source codebase](#contribute-to-this-open-source-codebase). Help us edit coding challenges, or fix bugs on the learning platform.
 
-2. Help campers on our [public forum](https://www.freecodecamp.org/forum/). [Answer their coding questions](https://www.freecodecamp.org/forum/?max_posts=1) or [give them feedback on their coding projects](https://www.freecodecamp.org/forum/c/project-feedback?max_posts=1).
-
-3. Help us add subtitles (closed captions) to our [YouTube channel videos](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos).
+2. [Help with translation fixes](#help-with-translation-fixes) as we integrate the Spanish curriculum on the website.
 
 ## Contribute to this open-source codebase
 
-Our codebase has thousands of [coding challenges](https://learn.freecodecamp.org) and other source code that power our learning platform.
+Right now, we are looking for help with UI - especially for toggling between Spanish and English lessons. If you are interested in helping, send an email to jess@codigo.la and I will add you to the organization!
 
-### Create, update and fix bugs in our coding challenges
+### Create, update and fix bugs
 
-All our coding challenges are curated by the community, bringing in expert knowledge from volunteers like you.
+Once you are a part of the código github organization, you can create pull requests, host the platform locally, and add any contributions you'd like!
 
-You can help expand them and make their wording better. You can also update the user stories to explain the concept better or remove redundant ones and improve the challenge tests to make them more accurately test people's code.
-
-**If you're interested in improving these coding challenges, here's [how to work on coding challenges](/docs/how-to-work-on-coding-challenges.md).**
-
-### Help us fix bugs in freeCodeCamp.org's learning platform
+### Help us fix bugs in Código's learning platform
 
 Our learning platform runs on a modern JavaScript stack. It has various components, tools, and libraries, including but not limited to, Node.js, MongoDB, LoopBack, OAuth 2.0, React, Gatsby, Webpack, and more.
 
@@ -49,33 +44,9 @@ Contributing to this requires some understanding of APIs, ES6 Syntax, and a lot 
 
 Essentially, we expect basic familiarity with some of the aforementioned technologies, tools, and libraries. With that being said, you are not required to be an expert on them to contribute.
 
-**If you want to help us improve our codebase, you can either [set up freeCodeCamp locally](/docs/how-to-setup-freecodecamp-locally.md) or use Gitpod, a free online dev environment.**
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/freeCodeCamp/freeCodeCamp)
-
-(Starts a ready-to-code dev environment for freecodecamp in your browser.)
+**If you want to help us improve our codebase, you can [set up this repo (originally forked from FreeCodeCamp) locally](/docs/how-to-setup-freecodecamp-locally.md).
 
 ## Frequently Asked Questions
-
-### How can I report a bug that is not on board?
-
-If you think you've found a bug, first read the ["Help I've Found a Bug"](https://forum.freecodecamp.org/t/how-to-report-a-bug/19543) article and follow its instructions.
-
-If you're confident it's a new bug, go ahead and create a new GitHub issue. Be sure to include as much information as possible so that we can reproduce the bug. We have a pre-defined issue template to help you through this.
-
-Please note that any issues that seek coding help on a challenge will be closed. The issue tracker is strictly for codebase related issues and discussions. Whenever in doubt, you should [seek assistance on the forum](https://www.freecodecamp.org/forum) before making a report.
-
-### How can I report a security issue?
-
-Please don't create GitHub issues for security issues. Instead, please send an email to `security@freecodecamp.org` and we'll look into it immediately.
-
-### What do these different labels that are tagged on issues mean?
-
-Our community moderators [triage](https://en.wikipedia.org/wiki/Software_bug#Bug_management) issues and pull requests based on their priority, severity, and other factors. You can [find a complete glossary of their meanings here](https://github.com/freecodecamp/freecodecamp/labels).
-
-You should go through [**`help wanted`**](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) or [**`first timers welcome`**](https://github.com/freeCodeCamp/freeCodeCamp/issues?q=is%3Aopen+is%3Aissue+label%3A%22first+timers+welcome%22) issues for a quick overview of what is available for you to work on. 
-
-These are up for grabs, and you do not need to seek permission before working on them. If these issues lack clarity on what needs to be done, feel free to ask questions in the comments.
 
 ### I found a typo, should I report an issue before I can make a pull request?
 
@@ -100,21 +71,6 @@ You do not need any permission for issues that are marked `help wanted` or `firs
 
 Read our [How to Contribute to Open Source Guide](https://github.com/freeCodeCamp/how-to-contribute-to-open-source).
 
-### I am stuck on something that is not included in this documentation. How can I get help?
+We are excited to help you contribute to any of the topics that you would like to work on! Feel free to ask us questions through email, and we will be glad to clarify.
 
-Feel free to ask for help in:
-
-- [The "Contributors" category of our public forum](https://www.freecodecamp.org/forum/c/contributors)
-- [Our public contributors chat room on Gitter](https://gitter.im/FreeCodeCamp/Contributors)
-
-We are excited to help you contribute to any of the topics that you would like to work on. Feel free to ask us questions on the related issue threads, and we will be glad to clarify. Make sure you search for your query before posting a new one. Be polite and patient. Our community of volunteers and moderators are always around to guide you through your queries.
-
-When in doubt, you can reach out to our platform dev team to help you with this:
-
-| Name            | GitHub | Twitter |
-|:----------------|:-------|:--------|
-| Mrugesh Mohapatra | [`@raisedadead`](https://github.com/raisedadead) | [`@raisedadead`](https://twitter.com/raisedadead)|
-| Ahmad Abdolsaheb | [`@ahmadabdolsaheb`](https://github.com/ahmadabdolsaheb) | [`@Abdolsaheb`](https://twitter.com/Abdolsaheb) |
-| Kristofer Koishigawa | [`@scissorsneedfoodtoo`](https://github.com/scissorsneedfoodtoo) | [`@kriskoishigawa`](https://twitter.com/kriskoishigawa) |
-
-> **Email: `dev@freecodecamp.org`**
+> **Email: `jess@codigo.la`**
