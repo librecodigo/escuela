@@ -5,13 +5,13 @@
 [![Open Source Helpers](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)
 [![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 
-## Información Sobre Participate [Español] (Se Viene Pronto!)
+### Información Sobre Participate [Español] (Se Viene Pronto!)
 
-## Information For How To Participate [English]
+### Information For How To Participate [English]
 
-## Código's open-source codebase and curriculum
+#### Código's open-source codebase and curriculum
 
-##### Stay tuned - the curriculum launches in 2020! :tada:
+###### Stay tuned - the curriculum (Spanish and English) launches in 2020! :tada:
 
 [codigo.la](https://www.codigo.la) is a friendly community where you can learn to code for free in Spanish and English. It is a non profit organization to help primarily Spanish Speakers transition into tech.
 
